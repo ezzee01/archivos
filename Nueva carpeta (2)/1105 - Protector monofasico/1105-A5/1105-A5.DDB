@@ -1,0 +1,9 @@
+[Design Root]
+Version=1.0.0
+[Directory]
+1105-A5.PCB=PCB
+Preview 1105-A5.PPC=PCBPrint
+[1105-A5.PCB]
+Editor Kind=PCB
+[Preview 1105-A5.PPC]
+Editor Kind=PCBPrint

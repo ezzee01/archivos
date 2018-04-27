@@ -1,0 +1,6 @@
+[Design Root]
+Version=1.0.0
+[Directory]
+7701-5.PCB=PCB
+[7701-5.PCB]
+Editor Kind=PCB

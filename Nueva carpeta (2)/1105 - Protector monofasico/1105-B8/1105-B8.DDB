@@ -1,0 +1,6 @@
+[Design Root]
+Version=1.0.0
+[Directory]
+1105-B7.PCB=PCB
+[1105-B7.PCB]
+Editor Kind=PCB

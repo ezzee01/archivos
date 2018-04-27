@@ -1,0 +1,6 @@
+[Design Root]
+Version=1.0.0
+[Directory]
+0301A-7.PCB=PCB
+[0301A-7.PCB]
+Editor Kind=PCB
