@@ -1,0 +1,19 @@
+(ExpressProject "sensor de humo"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (MPSSessionName "Administrador")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Select "Referenced Projects"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 200 0 433"))
+      (Tab 0))))

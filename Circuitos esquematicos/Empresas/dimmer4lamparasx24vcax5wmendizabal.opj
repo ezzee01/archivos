@@ -1,0 +1,47 @@
+(ExpressProject "dimmer4lamparasx24vcax5wmendizabal"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\dimmer4lamparasx24vcax5wmendizabal.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "\\SERVER2\1-SITEL\RESEARCH\CIRCUITOS ESQUEMATICOS\EMPRESAS\DIMMER4LAMPARASX24VCAX5WMENDIZABAL.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "\\SERVER2\1-SITEL\RESEARCH\CIRCUITOS ESQUEMATICOS\EMPRESAS\DIMMER4LAMPARASX24VCAX5WMENDIZABAL.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Outputs"
+    (File ".\dimmer4lamparasx24vcax5wmendizabal.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "\\Server2\1-sitel\Research\Circuitos esquematicos\Empresas\dimmer4lamparasx24vcax5wmendizabal.dsn")
+      (Path "Design Resources"
+         "\\Server2\1-sitel\Research\Circuitos esquematicos\Empresas\dimmer4lamparasx24vcax5wmendizabal.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "\\Server2\1-sitel\Research\Circuitos esquematicos\Empresas\dimmer4lamparasx24vcax5wmendizabal.dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -30 282 482 170 573"))
+      (Tab 0)))
+  (MPSSessionName "DESAR4"))

@@ -1,0 +1,28 @@
+
+Copyright (c) 1998-2005, Electronic Tools Company
+MAKING INTEROPERABILITY A REALITY. All rights reserved.
+The Interface Technology (TM) includes:
+UNPUBLISHED, LICENSED SOFTWARE, 
+CONFIDENTIAL AND PROPRIETARY INFORMATION WHICH IS 
+THE PROPERTY OF ELECTRONIC TOOLS CO. OR ITS LICENSORS.
+
+OrCAD Capture to EDIF 2 0 0 Schematic Conversion Program 10.5_1.067 built Apr 30 2005
+
+Started on Tue Apr 17 14:20:10 2012
+
+Reading config file aq
+Warning: Error on openning file aq
+
+orcadread :Converting file \\SERVER2\1-SITEL\RESEARCH\CIRCUITOS ESQUEMATICOS\EMPRESAS\DESIGN7.DSN 
+Converting SchematicView   SCHEMATIC1 
+	Converting elements on  page PAGE1
+		Converting Parts
+		Converting Buses and Nets of Schematic View SCHEMATIC1 
+
+Writing EDIF: C:\Documents and Settings\DESAR4\Escritorio\Aquacheck\DESIGN7.EDF
+
+
+Finished on Tue Apr 17 14:20:10 2012
+
+
+0 errors detected, 1 warning detected

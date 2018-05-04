@@ -1,0 +1,36 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\0741-tt6061a.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\0741-tt6061a.dsn")
+      (Path "Design Resources" ".\0741-tt6061a.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\0741-tt6061a.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 160 458 -4 -23 0 200 0 393"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -26 50 1151 50 462")
+        (Scroll "0 30")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "S:\RESEARCH\CIRCUITOS ESQUEMATICOS\0741-TT6061A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "muleto"))

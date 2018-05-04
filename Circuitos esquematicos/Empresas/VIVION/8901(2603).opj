@@ -1,0 +1,35 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\8901(2603).dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\8901(2603).dsn")
+      (Path "Design Resources" ".\8901(2603).dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\8901(2603).dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 399"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 123 1331 134 567")
+        (Scroll "0 449")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "S:\RESEARCH\CIRCUITOS ESQUEMATICOS\EMPRESAS\VIVION\8901(2603).DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

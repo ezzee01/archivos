@@ -1,0 +1,63 @@
+(ExpressProject "Seca Manos Fuente"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\seca manos fuente.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "\\SERVER2\1-SITEL\RESEARCH\CIRCUITOS ESQUEMATICOS\EMPRESAS\SECA MANOS FUENTE.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "\\SERVER2\1-SITEL\RESEARCH\CIRCUITOS ESQUEMATICOS\EMPRESAS\SECA MANOS FUENTE.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Outputs"
+    (File
+       "\\server2\1-sitel\research\circuitos esquematicos\empresas\seca manos fuente.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    ("RELAY SPST"
+      (FullPartName "RELAY SPST.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (TRAN_HM31
+      (FullPartName "TRAN_HM31.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (BRIDGE
+      (FullPartName "BRIDGE.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("MOTOR AC"
+      (FullPartName "MOTOR AC.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\ELECTROMECHANICAL.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\seca manos fuente.dsn")
+      (Path "Design Resources" ".\seca manos fuente.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\seca manos fuente.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 1 1 640 605 -4 -30 0 506 0 399"))
+      (Tab 0)))
+  (MPSSessionName "muleto"))

@@ -1,0 +1,85 @@
+(ExpressProject "Design4"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\design4.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (SENS59150-SPST
+      (FullPartName "SENS59150-SPST.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("RESISTOR 7PACK"
+      (FullPartName "RESISTOR 7PACK.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON"
+      (FullPartName "SW PUSHBUTTON.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (VDC
+      (FullPartName "VDC.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("CIRCUIT BREAKER"
+      (FullPartName "CIRCUIT BREAKER.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\ELECTROMECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (F5F1
+      (FullPartName "F5F1.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (AD1175K
+      (FullPartName "AD1175K.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\ATOD.OLB")
+      (DeviceIndex "0"))
+    (r
+      (FullPartName "r.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG_P.OLB")
+      (DeviceIndex "0"))
+    (FPOLY
+      (FullPartName "FPOLY.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -30 0 200 0 403"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -30 44 914 58 495")
+        (Scroll "0 0")
+        (Zoom "83")
+        (Occurrence "/"))
+      (Path
+         "\\SERVER2\1-SITEL\RESEARCH\CIRCUITOS ESQUEMATICOS\EMPRESAS\DESIGN4.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

@@ -1,0 +1,36 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\esquematico.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\esquematico.dsn")
+      (Path "Design Resources" ".\esquematico.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\esquematico.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 200 0 549"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 44 1060 44 620")
+        (Scroll "435 55")
+        (Zoom "220")
+        (Occurrence "/"))
+      (Path
+         "\\SERVER2\1-SITEL\RESEARCH\CIRCUITOS ESQUEMATICOS\PROYECTOS\AQUACHECK\ESQUEMATICO\ESQUEMATICO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

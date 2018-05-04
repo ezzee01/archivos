@@ -1,0 +1,26 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\empresas\vivion\x7901(2593).dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\empresas\vivion\x7901(2593).dsn")
+      (Path "Design Resources" ".\empresas\vivion\x7901(2593).dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\empresas\vivion\x7901(2593).dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 403"))
+      (Tab 0)))
+  (MPSSessionName "DESARROLLOS3"))

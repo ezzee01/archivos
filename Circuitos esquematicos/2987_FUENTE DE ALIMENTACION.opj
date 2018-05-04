@@ -1,0 +1,49 @@
+(ExpressProject "2987_FUENTE DE ALIMENTACION"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\2987_fuente de alimentacion.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "s:\research\circuitos esquematicos\2987_fuente de alimentacion.dsn")
+      (Path "Design Resources"
+         "s:\research\circuitos esquematicos\2987_fuente de alimentacion.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         "s:\research\circuitos esquematicos\2987_fuente de alimentacion.dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -36 0 200 0 384"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -36 50 1206 50 519")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "S:\RESEARCH\CIRCUITOS ESQUEMATICOS\2987_FUENTE DE ALIMENTACION.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "muleto")
+  (LastUsedLibraryBrowseDirectory
+     "C:\OrCAD\OrCAD_10.5_Demo\tools\capture\library"))

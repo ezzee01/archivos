@@ -1,0 +1,59 @@
+(ExpressProject "9701"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\9701.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAPACITOR POL"
+      (FullPartName "CAPACITOR POL.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "\\Server1\1-sitel\Research\Circuitos esquematicos\Empresas\Teclastar\LUZ VIGIA\9701.dsn")
+      (Path "Design Resources"
+         "\\Server1\1-sitel\Research\Circuitos esquematicos\Empresas\Teclastar\LUZ VIGIA\9701.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         "\\Server1\1-sitel\Research\Circuitos esquematicos\Empresas\Teclastar\LUZ VIGIA\9701.dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -30 0 200 0 395"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -30 44 910 58 487")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "\\SERVER1\1-SITEL\RESEARCH\CIRCUITOS ESQUEMATICOS\EMPRESAS\TECLASTAR\LUZ VIGIA\9701.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "Nelson")
+  (LastUsedLibraryBrowseDirectory
+     "C:\OrCAD\OrCAD_10.5_Demo\tools\capture\library"))

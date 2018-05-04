@@ -1,0 +1,59 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\3327.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (F5D3/TO
+      (FullPartName "F5D3/TO.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CON10A
+      (FullPartName "CON10A.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (OPI3020
+      (FullPartName "GE3009.Normal")
+      (LibraryName
+         "C:\ARCHIVOS DE PROGRAMA\ORCADWIN\CAPTURE\LIBRARY\OPTOISOL.OLB")
+      (DeviceIndex "0"))
+    ("SW TACT-SPST-C"
+      (FullPartName "SW TACT-SPST-C.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND_POWER
+      (LibraryName "C:\ORCAD\ORCAD_10.5_DEMO\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName
+         "C:\ARCHIVOS DE PROGRAMA\ORCADWIN\CAPTURE\LIBRARY\DEVICE.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName
+         "C:\ARCHIVOS DE PROGRAMA\ORCADWIN\CAPTURE\LIBRARY\DEVICE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\3327.dsn")
+      (Path "Design Resources" ".\3327.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\3327.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -30 0 200 0 403"))
+      (Tab 0)))
+  (MPSSessionName "muleto"))

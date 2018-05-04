@@ -1,0 +1,33 @@
+  Revised: Monday, July 16, 2012
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials           July 16,2012      14:57:58	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	2	C1,C2	100 nf
+2	1	C3	470 uf x 25v
+3	1	C4	500nf
+4	1	C5	22uf x 50v
+5	2	D1,D2	1N4148
+6	1	D3	1N4007
+7	1	D4	LED 5mm
+8	4	Q1,Q2,Q3,Q4	2N4401
+9	1	Q5    2N3055
+10	1	R1	4K7 (5%) 1/4W
+11	1	R2	2K2 (5%) 1/4W
+12	1	R3	47K (5%) 1/4W
+13	1	R4	220 (1%) 1/4W
+14	1	R5	1K8 (5%) 1/4W
+15	1	R6	1M (5%) 1/4W
+16	1	R7	470K (5%) 1/4W
+17	1	R8	12K (5%) 1/4W
+18	1	R9	510 ohm (1%) 1/4W
+19	1	R10	390 ohm (5%) 1/4W

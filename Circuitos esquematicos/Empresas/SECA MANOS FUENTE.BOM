@@ -1,0 +1,26 @@
+  Revised: Tuesday, January 31, 2012
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials        January 31,2012      16:40:27	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	2	C10,C15	10nf x 50v
+2	1	C11	100u x 25v
+3	1	C12	220u x 35v
+4	1	D13	ZENER 12v
+5	1	D14	4007
+6	1	D15	4148
+7	1	D16	BRIDGE
+8	1	D17	BRIDGE 4007
+9	1	MG1	MOTOR AC
+10	1	RL1	RELAY SPST
+11	1	R27	470k
+12	1	T1	TRAN 220-12v

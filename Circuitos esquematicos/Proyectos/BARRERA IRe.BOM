@@ -1,0 +1,23 @@
+  Revised: Monday, July 16, 2012
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials           July 16,2012      14:58:51	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	100 pf
+2	1	C2	470uf x 25 v
+3	1	C3	10 nf
+4	1	D1	1N4148
+5	1	Q1	HLB123
+6	1	R1	470 K (5%) 1/4W
+7	1	R2	39 K (5%) 1/4W
+8	1	R3  56 ohm (5%) 3W	
+9   1   U1  LM555

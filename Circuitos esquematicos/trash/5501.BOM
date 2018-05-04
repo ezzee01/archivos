@@ -1,0 +1,48 @@
+DETECTOR DE MOVIMIENTO CON  8072 de 3A  Revised: Tuesday, January 02, 2007
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials        January 2,2007      14:05:20	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	B1	0,25 mm
+2	1	B2	0,25mm
+3	3	R,N,C	0,75mm
+4	3	C1,C4,C8	47Mf-16V
+5	1	C2	68nf
+6	3	C5,C14,C15	100nf
+7	2	C10,C6	10nf
+8	1	C7	100Mf-16V
+9	1	C9	1nf
+10	1	C11	10Mf-16V
+11	1	C12	1MF-400V SIEMENS
+12	2	C13,C16	220Mf-16V
+13	1	D?	LDR
+14	1	D1	1N4148
+15	1	D1 D2 D3 D4	1N4007
+16	1	PR1	500K
+17	2	R3,PR2	1M
+18	1	Q0	JFET N
+19	1	Q1	BC 546
+20	1	RL1	12V-3A
+21	1	R1	4K7
+22	1	R2	470k
+23	2	R4,R6	47K
+24	1	R5	10K
+25	1	R7	4,7K
+26	1	R8	470 OHM
+27	1	R9	27 OHM 1W CEM
+28	1	R10	6K8
+29	1	R109	GATE RESISTOR
+30	1	U?	PIR
+31	1	U1	WT8072
+32	1	X0	SENSOR CRYSTAL
+33	1	Z1	 12V-2W
+34	1	Z2	5V6 1/2W

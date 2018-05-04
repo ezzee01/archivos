@@ -1,0 +1,43 @@
+  Revised: Monday, May 14, 2012
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials            May 24,2012      9:17:23	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C2	1u x 50v
+2	1	C3	47pf x 50v
+3	2	C4,C5	10n j100
+4	3	C6,C7,C8	10nf x 50v
+5	1	C9	680pf x50v
+6	1	C14	100uf x 25v
+7	1	D3	LED
+8	6	D4,D6,D7,D9,D10,D11	4148
+9	1	D5	PHOTODIODE
+10	1	D12	5.6v
+11	1	Preset H	500k
+12	4	Q1,Q3,Q4,Q5	BC546
+13	1	Q6	PNP BC556
+14	1	R1	47ohms
+15	4	R7,R14,R24,R25	22k
+16	1	R8	470k
+17	3	R9,R13,R16	5.6k
+18	1	R10	1k
+19	1	R11	10M
+20	3	R12,R21,R22	560k
+21	1	R15	27k
+22	2	R17,R23	3.9k
+23	1	R18	47k
+24	1	R19	33k
+25	1	R20	1M
+26	1	R26	39k
+27	1	R27	R 82k
+28	1	U3	4066
+29	1	U4	LM324A

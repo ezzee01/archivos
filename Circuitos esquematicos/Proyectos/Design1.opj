@@ -1,0 +1,33 @@
+(ExpressProject "Design1"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\design1.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "S:\Research\Circuitos esquematicos\Proyectos\design1.dsn")
+      (Path "Design Resources"
+         "S:\Research\Circuitos esquematicos\Proyectos\design1.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "S:\Research\Circuitos esquematicos\Proyectos\design1.dsn"
+         "Design Cache")
+      (Select "Design Resources"
+         "S:\Research\Circuitos esquematicos\Proyectos\design1.dsn" "SCHEMATIC1"
+         "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 200 0 435"))
+      (Tab 0)))
+  (MPSSessionName "DESAR4")
+  (PartMRUSelector))

@@ -1,0 +1,22 @@
+DIMMER PARA 4 LAMPARAS DE 24 VCA X 5W C/U  Revised: Thursday, August 18, 2011
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials         August 19,2011      9:06:55	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	2	c2,C3	.022Mf-250v(poliester)
+2	1	D1	DIAC-DB3
+3	1	P2 (Preset horizontal 6x6 smd 1Mohm)
+4	1	R1	82 ohm-1/4W
+5	1	R2	15k-1/4w
+6	1	R3	39K-1/4W
+7	1	T1	BTA 08-600
+8	1	c1	.01uf-400v(poliester)
