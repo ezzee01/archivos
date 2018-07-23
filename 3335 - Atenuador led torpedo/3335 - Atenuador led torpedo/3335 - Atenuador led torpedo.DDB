@@ -2,5 +2,8 @@
 Version=1.0.0
 [Directory]
 3335 - Atenuador led torpedo.PCB=PCB
+Preview 3335 - Atenuador led torpedo.PPC=PCBPrint
 [3335 - Atenuador led torpedo.PCB]
 Editor Kind=PCB
+[Preview 3335 - Atenuador led torpedo.PPC]
+Editor Kind=PCBPrint
